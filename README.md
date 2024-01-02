@@ -9,5 +9,4 @@ This is a python tool I developed to process and analyze ground reaction force d
 * Data source: self-collected 
 * Modules used: pandas, os, numpy, time, glob, matplotlib, seaborn, and textwrap
 
-![](CMJ RSI Image.jpg)
-[CMJ Report.pdf](https://github.com/shengsandc/sheng_port/files/13807808/CMJ.Report.pdf)
+![](CMJ_RFD_Image.jpg)
