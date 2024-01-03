@@ -17,5 +17,6 @@ This is a python tool I developed to process and analyze ground reaction force d
 This goal of the project is to understand whether offering a service of fitness test can affect gym membership application and purchase decision.
 
 * Data source: Codecademy
-* Modules used: pandas, matplotlib, scipy
-* 
+* Modules used: pandas, matplotlib, scipy, and os
+
+![](AB_test_for_gym_operation.jpg)
