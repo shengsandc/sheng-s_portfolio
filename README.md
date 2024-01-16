@@ -1,5 +1,3 @@
-# sheng's_portfolio
-
 # [Project 1: CMJ data processing and analysis]
 
 ## [CMJ Analysis Python Tool](https://github.com/shengsandc/CMJ-analysis/blob/5241994d198cac9bfa7b9d90a3d169296753b9c5/CMJ.py)
