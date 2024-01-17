@@ -11,12 +11,12 @@ This is a python tool I developed to process and analyze ground reaction force d
 ![](CMJ_RSI_Image.jpg)
 
 # [Project 2: Biodiversity Analysis in National Parks]
-## [python code for biodiversity analysis](https://github.com/shengsandc/Biodiversity/blob/d6099cd932583d53a5d5d162741ba436c42590f5/biodiversity.ipynb)
+## [python code for biodiversity analysis](https://github.com/shengsandc/Biodiversity/blob/f5d176b6c49dc2e3025796095e5fc8392d4695e5/biodiversity_.ipynb)
 This project was aimed to analyze conservation status of species in National Parks. I managed to explore the distribution of species in conservation among categories and National Parks. The project also involved Chi-square test to test out the significance.
 
 * Data source: Codecademy
-* MOdules used: pandas, os, numpy, sqlite3, matplotlib, seaborn, scipy, itertools and IPython
-
+* Modules used: pandas, os, numpy, sqlite3, matplotlib, seaborn, scipy, itertools and IPython
+* Result: we discovered the conservation status of species categories and National Parks with significant difference, and identify species that potentially require conservation in the future. The details are provided in the Jupyter Notebook file.
 
 # [Project 3: A/B test for gym operation]
 ## [python code for A/B test](https://github.com/shengsandc/sheng_port/blob/0aff84caa6ee79a501c4eceef2a18bb08ae524f6/fitness_test.py)
