@@ -19,7 +19,7 @@ This project was aimed to analyze conservation status of species in National Par
 * Result: we discovered the conservation status of species categories and National Parks with significant difference, and identify species that potentially require conservation in the future. The details are provided in the Jupyter Notebook file.
 
 # [Project 3: A/B test for gym operation]
-## [python code for A/B test](https://github.com/shengsandc/sheng_port/blob/0aff84caa6ee79a501c4eceef2a18bb08ae524f6/fitness_test.py)
+## [python code for A/B test](https://github.com/shengsandc/Gym-AB-Test/blob/1081b2a1c0f288bdd65d289af6f15e9412423538/Gym%20AB%20Test.ipynb)
 This goal of the project is to understand whether offering a service of fitness test can affect gym membership application and purchase decision.
 
 * Data source: Codecademy
