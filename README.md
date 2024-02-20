@@ -28,7 +28,7 @@ The goal of the project is to understand whether offering a service of fitness t
 ![](AB_test_for_gym_operation.jpg)
 
 # [Project 4: US Census Data Cleaning and Analysis]
-## [python code for census data cleaning and analysis] (https://github.com/shengsandc/Census-Data-Cleaning/blob/42f54ac48e25835b9dfa3f5368df830c027463a8/Cleaning%20Census%20Data.ipynb)
+## [python code for census data cleaning and analysis](https://github.com/shengsandc/Census-Data-Cleaning/blob/42f54ac48e25835b9dfa3f5368df830c027463a8/Cleaning%20Census%20Data.ipynb)
 This project aimed to analyze US census data. Main issue of the dataset is that most data required cleaning before further analysis.
 
 * Data source: Codecademy
