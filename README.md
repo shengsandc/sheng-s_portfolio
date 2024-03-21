@@ -11,7 +11,7 @@ This is a python tool I developed to process and analyze ground reaction force d
 ![](CMJ_RSI_Image.jpg)
 
 # [Project 2: Analysis and Data Visualization of GDP and Life Expectancy]
-##[python code for GDP X LE](https://github.com/shengsandc/GDP-X-LE/blob/900722a184138210f16aaf46765c936d06b2998c/life_expectancy_gdp.ipynb)
+## [python code for GDP X LE](https://github.com/shengsandc/GDP-X-LE/blob/900722a184138210f16aaf46765c936d06b2998c/life_expectancy_gdp.ipynb)
 This project was aimed to understand the relationship between GDP and life expectancy so as their distribution. This project is a good demonstration of my ability in data visualization.
 
 * Data source: World Bank national accounts data, OECD National Accounts data files, and World Health Organization.
